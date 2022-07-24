@@ -10,14 +10,14 @@ Ex4CDS are explanations (or more precisely justifications) of physicians in the 
 
 The data can be downloaded [here](https://drive.google.com/file/d/110DUrMdXqdGAJpaUlub_Lr0w3NXU0v0C/view?usp=sharing), and is described in our paper which will be presented at LREC 2022:
 
-*Roland Roller, Aljoscha Burchardt, Nils Feldhus, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja. **An Annotated Corpus of Textual Explanations for Clinical Decision Support**. Proceedings of the International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France, 2022.*
+*Roland Roller, Aljoscha Burchardt, Nils Feldhus, Laura Seiffe, Klemens Budde, Simon Ronicke and Bilgin Osmanodja. **An Annotated Corpus of Textual Explanations for Clinical Decision Support**. Proceedings of the International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France, 2022.* [link](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.248.pdf)
 
 &nbsp;
 
 Moreover if you would like to understand the experimental setup/context in more detail, please have a look for the following two preprints:
 
-*Roland Roller, Manuel Mayrdorfer, Wiebke Duettmann, Marcel Ganesh Naik, Danilo Schmidt, Fabian Halleck, Patrik Hummel, Aljoscha Burchhardt, Sebastian Möller, Peter Dabrock, Bilgin Osmanodja, Klemens Budde. **Evaluation of a clinical decision support system for detection of patients at risk after kidney transplantation**. medRxiv (2022).*
+*Roland Roller, Manuel Mayrdorfer, Wiebke Duettmann, Marcel Ganesh Naik, Danilo Schmidt, Fabian Halleck, Patrik Hummel, Aljoscha Burchhardt, Sebastian Möller, Peter Dabrock, Bilgin Osmanodja, Klemens Budde. **Evaluation of a clinical decision support system for detection of patients at risk after kidney transplantation**. medRxiv (2022).* [link]([https://drive.google.com/file/d/110DUrMdXqdGAJpaUlub_Lr0w3NXU0v0C/view?usp=sharing](https://www.medrxiv.org/content/10.1101/2022.05.12.22275019v1))
 
-*Roland Roller, Klemens Budde, Aljoscha Burchardt, Peter Dabrock, Sebastian Möller, Bilgin Osmanodja, Simon Ronicke, David Samhammer, Sven Schmeier. **When Performance is not Enough - A Multidisciplinary View on Clinical Decision Support**. arXiv preprint arXiv:2204.12810.*
+*Roland Roller, Klemens Budde, Aljoscha Burchardt, Peter Dabrock, Sebastian Möller, Bilgin Osmanodja, Simon Ronicke, David Samhammer, Sven Schmeier. **When Performance is not Enough - A Multidisciplinary View on Clinical Decision Support**. arXiv preprint arXiv:2204.12810.* [link](https://arxiv.org/pdf/2204.12810.pdf)
 
 
