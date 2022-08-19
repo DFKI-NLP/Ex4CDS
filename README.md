@@ -1,6 +1,6 @@
 # Ex4CDS - Textual Explanations for Clinical Decision Support 
 
-Ex4CDS are explanations (or more precisely justifications) of physicians in the context of clinical decision support. In the course of a larger study, physicians estimated the probability of different clinical outcomes in nephology, namely rejection, graft loss and infections, within the next 90 days. Each estimation has to be justified within a short text - these are our explanations. The explanations were provided in German and have strong similarities to general clinical notes. Our dataset tries to make the following contributions:
+Ex4CDS are explanations (or more precisely justifications) of physicians in the context of clinical decision support. In the course of a larger study, physicians estimated the probability of different clinical outcomes in nephology, namely rejection, graft loss and infections, within the next 90 days. Each estimation had to be justified within a short text - these are our explanations. The explanations were provided in German and have strong similarities to general clinical notes. Our dataset tries to make the following contributions:
 
 1) We analyse how humans would provide an explanation/justification for the prediction of clinical outcomes. Using this analysis, we hope to provide useful insights for future explainable automatic decision support systems - with explanations in the form of natural language.
 
