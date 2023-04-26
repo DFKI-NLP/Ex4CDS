@@ -14,10 +14,13 @@ The data can be downloaded [here](https://drive.google.com/file/d/110DUrMdXqdGAJ
 
 &nbsp;
 
-Moreover if you would like to understand the experimental setup/context in more detail, please have a look for the following two preprints:
+Moreover if you would like to understand the experimental setup/context in more detail, please have a look for the following two papers:
 
-*Roland Roller, Manuel Mayrdorfer, Wiebke Duettmann, Marcel Ganesh Naik, Danilo Schmidt, Fabian Halleck, Patrik Hummel, Aljoscha Burchhardt, Sebastian Möller, Peter Dabrock, Bilgin Osmanodja, Klemens Budde. **Evaluation of a clinical decision support system for detection of patients at risk after kidney transplantation**. medRxiv (2022).* [PDF](https://www.medrxiv.org/content/10.1101/2022.05.12.22275019v1)
+*Roland Roller, Manuel Mayrdorfer, Wiebke Duettmann, Marcel Ganesh Naik, Danilo Schmidt, Fabian Halleck, Patrik Hummel, Aljoscha Burchhardt, Sebastian Möller, Peter Dabrock, Bilgin Osmanodja, Klemens Budde. **Evaluation of a clinical decision support system for detection of patients at risk after kidney transplantation**. Frontiers in Public Health, 2022.* [PDF](https://www.frontiersin.org/articles/10.3389/fpubh.2022.979448/full)
 
-*Roland Roller, Klemens Budde, Aljoscha Burchardt, Peter Dabrock, Sebastian Möller, Bilgin Osmanodja, Simon Ronicke, David Samhammer, Sven Schmeier. **When Performance is not Enough - A Multidisciplinary View on Clinical Decision Support**. arXiv preprint arXiv:2204.12810.* [PDF](https://arxiv.org/abs/2204.12810)
+*Roland Roller, Aljoscha Burchhardt, David Samhammer, Simon Ronicke, Wiebke Duettmann, Sven Schmeier, Sebastian Möller, Peter Dabrock, Klemens Budde, Manuel Mayrdorfer, Bilgin Osmanodja. **When Performance is not Enough - A Multidisciplinary View on Clinical Decision Support**. PLOS ONE 18(4): e0282619, 2023.* [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282619)
+
+
+
 
 
